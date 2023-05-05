@@ -1,4 +1,4 @@
-# Data_Struectures
+# Datastructure
 ❖ MESSAGE APPLICATION:
 This is a regular messaging application like WhatsApp,
 Messenger, etc., where communication between the sender and
