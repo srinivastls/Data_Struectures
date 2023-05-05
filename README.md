@@ -15,6 +15,7 @@ application to complete my project.
 1. INBOX
 2. SENT BOX
 3. TRASH BIN/RECYCLE BIN
+
 ❖ The operations that are going to perform are:
 1. Searching a message in the inbox, sent box, trash box.
 2. Adding new messages in the sent box.
