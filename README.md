@@ -1,4 +1,4 @@
-# Datastructure
+# Data structure - Linked List
 ❖ MESSAGE APPLICATION:
 This is a regular messaging application like WhatsApp,
 Messenger, etc., where communication between the sender and
